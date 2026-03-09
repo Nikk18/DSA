@@ -1,12 +1,10 @@
-# Daily DSA Practice
+# DSA Practice Repository
 
 This repository contains my daily Data Structures and Algorithms practice tasks.
 
-## Progress
-
-| Day | Problem |
-|----|----|
-| Day 01 | Find Largest Element in Array |
-
 Language Used:
-- C++
+C++
+
+Progress:
+
+Day 01 - Find Largest Element in an Array
