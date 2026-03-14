@@ -29,6 +29,7 @@ The problems are solved using **C++** and uploaded regularly to build consistenc
 | Day 03 | Greatest Common Divisor of Two Numbers | `day03_greatest_common_divisor.cpp` |
 | Day 04 | Check for Prime Number                 | `day04_prime_number.cpp`            |
 | Day 05 | Remove Duplicates from Sorted Array    | `day05_remove_duplicates.cpp`       |
+| Day 06 | Check if Array is Sorted and Rotated   | `day06_check_sorted_rotated.cpp`    |
 
 ---
 
@@ -42,6 +43,7 @@ DSA
 ├── day03_greatest_common_divisor.cpp
 ├── day04_prime_number.cpp
 ├── day05_remove_duplicates.cpp
+├── day06_check_sorted_rotated.cpp
 └── README.md
 ```
 
@@ -50,7 +52,7 @@ DSA
 ## 🚀 Future Plan
 
 I will continue solving **daily DSA problems** and update this repository regularly.
-This practice will help me improve my **logical thinking, coding ability, and technical interview preparation**.
+This practice will help me improve **logical thinking, coding ability, and technical interview preparation**.
 
 ---
 
