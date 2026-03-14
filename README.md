@@ -28,6 +28,7 @@ The problems are solved using **C++** and uploaded regularly to build consistenc
 | Day 02 | Palindrome Number                      | `day02_palindrome_number.cpp`       |
 | Day 03 | Greatest Common Divisor of Two Numbers | `day03_greatest_common_divisor.cpp` |
 | Day 04 | Check for Prime Number                 | `day04_prime_number.cpp`            |
+| Day 05 | Remove Duplicates from Sorted Array    | `day05_remove_duplicates.cpp`       |
 
 ---
 
@@ -40,6 +41,7 @@ DSA
 ├── day02_palindrome_number.cpp
 ├── day03_greatest_common_divisor.cpp
 ├── day04_prime_number.cpp
+├── day05_remove_duplicates.cpp
 └── README.md
 ```
 
@@ -48,7 +50,14 @@ DSA
 ## 🚀 Future Plan
 
 I will continue solving **daily DSA problems** and update this repository regularly.
-This will help improve **logical thinking, coding ability, and technical interview preparation**.
+This practice will help me improve my **logical thinking, coding ability, and technical interview preparation**.
+
+---
+
+## 🌟 About This Repository
+
+This repository is part of my **daily DSA practice challenge**, where I solve and upload at least **one problem every day**.
+The goal is to stay consistent, improve algorithmic thinking, and build a strong coding habit.
 
 ---
 
