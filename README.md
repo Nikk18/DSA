@@ -1,26 +1,29 @@
 # 📘 Data Structures and Algorithms (DSA) Practice
 
-This repository contains my **daily Data Structures and Algorithms practice tasks**.
-The problems are solved using **C++** and uploaded regularly to build consistency in problem solving and improve coding skills.
+This repository contains my **daily Data Structures and Algorithms (DSA) practice tasks**.
+The problems are solved in **C++** and uploaded regularly to build **consistency in problem solving and coding skills**.
+
+I am solving problems from platforms like **LeetCode** and **GeeksforGeeks** to improve my **logical thinking, coding ability, and interview preparation**.
 
 ---
 
-## 🎯 Goals
+# 🎯 Goal
 
 * Build strong **problem-solving skills**
 * Practice **Data Structures and Algorithms daily**
 * Maintain **consistency in coding**
 * Improve my **GitHub coding portfolio**
+* Prepare for **technical interviews**
 
 ---
 
-## 💻 Language Used
+# 💻 Language Used
 
-* C++
+* **C++**
 
 ---
 
-## 📅 Daily Progress
+# 📅 Daily Progress
 
 | Day    | Problem                                | File                                |
 | ------ | -------------------------------------- | ----------------------------------- |
@@ -29,11 +32,12 @@ The problems are solved using **C++** and uploaded regularly to build consistenc
 | Day 03 | Greatest Common Divisor of Two Numbers | `day03_greatest_common_divisor.cpp` |
 | Day 04 | Check for Prime Number                 | `day04_prime_number.cpp`            |
 | Day 05 | Remove Duplicates from Sorted Array    | `day05_remove_duplicates.cpp`       |
-| Day 06 | Check if Array is Sorted and Rotated   | `day06_check_sorted_rotated.cpp`    |
+| Day 06 | Check if Array is Sorted and Rotated   | `day06_sorted_rotated_array.cpp`    |
+| Day 07 | Find the Duplicate Number              | `day07_find_duplicate_number.cpp`   |
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```
 DSA
@@ -43,24 +47,47 @@ DSA
 ├── day03_greatest_common_divisor.cpp
 ├── day04_prime_number.cpp
 ├── day05_remove_duplicates.cpp
-├── day06_check_sorted_rotated.cpp
+├── day06_sorted_rotated_array.cpp
+├── day07_find_duplicate_number.cpp
+│
 └── README.md
 ```
 
 ---
 
-## 🚀 Future Plan
+# 📚 Problems Source
 
-I will continue solving **daily DSA problems** and update this repository regularly.
-This practice will help me improve **logical thinking, coding ability, and technical interview preparation**.
+Some problems are practiced from:
 
----
+* LeetCode
+* GeeksforGeeks
 
-## 🌟 About This Repository
-
-This repository is part of my **daily DSA practice challenge**, where I solve and upload at least **one problem every day**.
-The goal is to stay consistent, improve algorithmic thinking, and build a strong coding habit.
+These platforms help in improving **algorithmic thinking and coding efficiency**.
 
 ---
 
-⭐ **Consistency is the key to mastering Data Structures and Algorithms.**
+# 🚀 Future Plan
+
+I will continue solving **DSA problems daily** and update this repository regularly.
+
+Future topics will include:
+
+* Arrays
+* Strings
+* Recursion
+* Sorting Algorithms
+* Searching Algorithms
+* Linked Lists
+* Stacks and Queues
+* Trees and Graphs
+* Dynamic Programming
+
+This journey will help me build strong **coding fundamentals and problem-solving ability**.
+
+---
+
+# ⭐ Motivation
+
+**Consistency is the key to mastering Data Structures and Algorithms.**
+
+Small progress every day leads to **big improvements over time**.
