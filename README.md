@@ -34,6 +34,8 @@ I am solving problems from platforms like **LeetCode** and **GeeksforGeeks** to 
 | Day 05 | Remove Duplicates from Sorted Array    | `day05_remove_duplicates.cpp`       |
 | Day 06 | Check if Array is Sorted and Rotated   | `day06_sorted_rotated_array.cpp`    |
 | Day 07 | Find the Duplicate Number              | `day07_find_duplicate_number.cpp`   |
+| Day 08 | Armstrong Number                       | `day08_armstrong_number.cpp`        |
+| Day 09 | Print All Divisors of a Number         | `day09_all_divisors.cpp`            |
 
 ---
 
@@ -49,6 +51,8 @@ DSA
 ├── day05_remove_duplicates.cpp
 ├── day06_sorted_rotated_array.cpp
 ├── day07_find_duplicate_number.cpp
+├── day08_armstrong_number.cpp
+├── day09_all_divisors.cpp
 │
 └── README.md
 ```
