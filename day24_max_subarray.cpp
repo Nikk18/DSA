@@ -19,10 +19,8 @@ int main()
     for(int i = 0; i < n; i++)
     {
         currSum += arr[i];
-
         if(currSum > maxSum)
             maxSum = currSum;
-
         if(currSum < 0)
             currSum = 0;
     }
